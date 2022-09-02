@@ -1,6 +1,5 @@
-# Yurii Sitnikov
+# Yuriy Sitnikov
 Front-end Developer
-***
 ## Contacts
 * **E-mail**: [selnetys@gmail.com](mailto:selnetys@gmail.com)
 * **Telegram**: [@selnet123](https://t.me/selnet123)
@@ -30,7 +29,7 @@ At the present time I work as an Automation Control Systems Software Engineer
   Industrial Installations and Technological Complexes; (2013—2017)
 
 ## Projects
-* Temperature monitoring service through MQTT: ([racloud.ru](https://racloud.ru))
+* Temperature monitoring service through MQTT: ([racloud.ru](http://racloud.ru))
   * ([Frontend Source code](https://github.com/KuniLee/RA_Cloud))
   * ([Backend Source code](https://github.com/KuniLee/RA_server))
 * Landing page for [LPG-massage salon](https://kunilee.github.io/lpg-landing/)

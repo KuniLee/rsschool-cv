@@ -1,2 +1,4 @@
 # rsschool-cv
-Public repository for rs school CV-project
+## CV-project for rsschool
+
+**[CV PAGE](https://kunilee.github.io/rsschool-cv/cv)**
