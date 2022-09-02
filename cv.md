@@ -5,9 +5,11 @@ Front-end Developer
 * **E-mail**: [selnetys@gmail.com](mailto:selnetys@gmail.com)
 * **Telegram**: [@selnet123](https://t.me/selnet123)
 * **GitHub**: [KuniLee](https://github.com/KuniLee)
+* **Discord** [KuniLee](https://discordapp.com/users/KuniLee#5437/)
 
 ## About me
 27 years old. I've been studying Web Development for over a year.
+Besides, have an experience in working with SQL, Linux, MQTT, Back-end developing (NodeJS).
 At the present time I work as an Automation Control Systems Software Engineer
 
 ## Skills
@@ -28,9 +30,9 @@ At the present time I work as an Automation Control Systems Software Engineer
   Industrial Installations and Technological Complexes; (2013—2017)
 
 ## Projects
-* Temperature monitoring service through MQTT 
-  ([Frontend Source code](https://github.com/KuniLee/RA_Cloud))
-* ([Backend Source code](https://github.com/KuniLee/RA_server))
+* Temperature monitoring service through MQTT: ([racloud.ru](https://racloud.ru))
+  * ([Frontend Source code](https://github.com/KuniLee/RA_Cloud))
+  * ([Backend Source code](https://github.com/KuniLee/RA_server))
 * Landing page for [LPG-massage salon](https://kunilee.github.io/lpg-landing/)
   ([Source code](https://github.com/KuniLee/lpg-landing))
 * Learning project of [clothing store](https://kunilee.github.io/prof_verstka_course/)
@@ -46,7 +48,3 @@ function generateHashtag(str) {
     } else return false
 }
 ```
-
-
-
-
