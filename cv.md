@@ -1,6 +1,5 @@
-# Yurii Sitnikov
+# Yuriy Sitnikov
 Front-end Developer
-***
 ## Contacts
 * **E-mail**: [selnetys@gmail.com](mailto:selnetys@gmail.com)
 * **Telegram**: [@selnet123](https://t.me/selnet123)
