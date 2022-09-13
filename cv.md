@@ -5,6 +5,7 @@ Front-end Developer
 * **Telegram**: [@selnet123](https://t.me/selnet123)
 * **GitHub**: [KuniLee](https://github.com/KuniLee)
 * **Discord** [KuniLee](https://discordapp.com/users/KuniLee#5437/)
+* **Codewars** [![Codewars](https://www.codewars.com/users/KuniLee/badges/micro)](https://www.codewars.com/users/KuniLee)
 
 ## About me
 27 years old. I've been studying Web Development for over a year.
